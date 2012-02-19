@@ -1,0 +1,5 @@
+C:\Projects\quentinrider\bin\quentinrider.dll
+C:\Projects\quentinrider\bin\quentinrider.pdb
+C:\Projects\quentinrider\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\quentinrider\obj\Debug\quentinrider.dll
+C:\Projects\quentinrider\obj\Debug\quentinrider.pdb

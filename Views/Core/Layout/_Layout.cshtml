@@ -1,0 +1,20 @@
+﻿
+@using quentinrider.ViewModules;
+@{
+    BaseModule baseMod = new BaseModule();
+    
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+
+    @Html.Raw(baseMod.GetStyles())
+</head>
+
+<body>
+    @RenderBody()
+    @Html.Raw(baseMod.GetScripts())
+</body>
+</html>
